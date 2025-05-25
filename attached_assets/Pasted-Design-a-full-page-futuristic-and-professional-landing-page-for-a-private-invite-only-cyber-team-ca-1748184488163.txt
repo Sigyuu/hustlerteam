@@ -1,0 +1,77 @@
+Design a full-page, futuristic and professional landing page for a private invite-only cyber team called "HUSTLER TEAM". The theme is neon pink and black, with glitch effects, cyberpunk aesthetics, and a high-tech feel. The website is styled for dark mode.
+
+📌 GENERAL STYLE:
+- Neon pink and black/dark grey as main color scheme
+- Glowing UI elements and soft shadows
+- Futuristic fonts and layouts
+- High-tech, digital, and encrypted feel
+- Subtle glitch art effects (on borders, titles, hover buttons)
+- Realistic lighting and subtle movement suggested (for animations)
+- Cyber grid background or matrix lines with pink pulses
+
+📄 PAGE STRUCTURE:
+
+1. 🖥️ **Hero Section / Header**
+   - Title: “HUSTLER TEAM”
+   - Subtitle: “Ekskluzywna społeczność dla wybranych”
+   - CTA Button: “Dołącz Teraz” (glowing neon pink)
+   - Background: city skyline at night or hacker terminal with pink neon glow
+
+2. ✅ **Nasza Oferta (What We Do)**
+   - 4–6 cards or blocks, each with pink neon icons and glowing outlines
+   - Categories:
+     • "Bramki Płatnicze (Blik, Revolut, itp.)"
+     • "OLX / Marketplace Methods"
+     • "Facebook / Social Access"
+     • "Dostęp do baz danych i logów"
+     • "Panele Klienta / Dostępy"
+     • "Inne Ekskluzywne Metody"
+   - Use icons like credit card, package, lock, database, user, lightning bolt
+
+3. 🛡️ **Weryfikacja / Jak Dołączyć**
+   - Vertical step layout: 1. Kontakt → 2. Weryfikacja → 3. Akceptacja
+   - Shield icon, biometric scan visuals
+   - CTA again: “Aplikuj do Społeczności”
+
+4. 💬 **FAQ Section**
+   - 4–5 question cards with pink glowing question mark icons
+   - Sample questions:
+     • "Czy członkostwo jest płatne?"
+     • "Czy muszę mieć doświadczenie?"
+     • "Jak wygląda kontakt i wsparcie?"
+     • "Czy działania są anonimowe?"
+
+5. 🌐 **Nasz Zespół / O Nas**
+   - Minimal portraits (stylized, anonymous – masks, shadows)
+   - Short phrases like:
+     • “10+ lat doświadczenia w hustle game”
+     • “Bezpieczne działania, realne efekty”
+
+6. 📊 **Case Studies / Portfolio**
+   - Graphs, glowing stats, anonymized screenshots
+   - Example: “20 000 zł w 3 dni – metoda OLX 2025”, pink line graph rising
+
+7. 🛠️ **Narzędzia / Zasoby**
+   - Icons for tools (proxy, VPN, marketplace bots, SMS API etc.)
+   - Recommended software list – all in neon pink interface
+
+8. 📰 **Blog / News / Poradniki**
+   - Cards for posts with glowing outlines
+   - Titles like:
+     • “5 tricków z OLX, które działają w 2025”
+     • “Jak chronić się przed namierzeniem?”
+
+9. 📞 **Kontakt / Wsparcie**
+   - Telegram link button with animated hover
+   - Icons: message bubble, headset
+   - Info: “Support 24/7, dostęp tylko po dołączeniu”
+
+10. ⚠️ **Disclaimer / Footer**
+    - Glitch-style background with:
+      “Strona o charakterze edukacyjnym. Wszystkie informacje mają charakter teoretyczny.”
+
+📐 FORMAT:
+- Responsive layout (desktop + mobile)
+- 4K ultra-realistic resolution (if generating images)
+- Include layered UI design elements and interface depth
+

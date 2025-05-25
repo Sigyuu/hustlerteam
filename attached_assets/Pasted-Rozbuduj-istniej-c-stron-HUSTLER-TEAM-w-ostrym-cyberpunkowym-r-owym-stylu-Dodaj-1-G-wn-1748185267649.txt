@@ -1,0 +1,50 @@
+Rozbuduj istniejącą stronę HUSTLER TEAM w ostrym, cyberpunkowym różowym stylu. Dodaj:
+
+1. 🧭 Główne górne menu (sticky navbar):
+   - Zakładki: "O Nas", "Oferta", "Dołącz", "FAQ", "Kontakt"
+   - Styl: neonowe różowe światło, efekt blur, animacja pojawiania się po scrollu.
+
+2. 🎯 Sekcja Hero (nagłówek):
+   - Wielki nagłówek: „HUSTLER TEAM”
+   - Podtytuł: „Twoja różowa droga do 25% zysku – OLX, Blik, Facebook i więcej!”
+   - Animowany przycisk „Dołącz teraz” z linkiem: https://t.me/+zq7cQlDNLe5hNDM0
+   - Efekt tekstu glitch i podświetlenie na hover.
+
+3. 💡 Sekcja „Nasza Oferta”:
+   - Kafelkowy układ z różowymi neonowymi ikonami i opisami:
+     - „OLX Bramki” – szybkie i skuteczne
+     - „Facebook Marketplace” – pewne schematy
+     - „Logi & Dane” – dostęp do rzadkich źródeł
+     - „Weryfikacja” – dostęp tylko dla wybranych
+
+4. 🛡️ Sekcja „Jak dołączyć?”:
+   - Kroki: Napisz → Zweryfikuj się → Zgarniaj prowizję
+   - Ikony: tarcza, zamek, odznaka
+   - CTA z linkiem: https://t.me/+zq7cQlDNLe5hNDM0
+
+5. ❓ Sekcja „FAQ”:
+   - Rozwijane pytania w stylu akordeonu.
+   - Efekty animacji przy otwieraniu.
+   - Przykładowe pytania: „Ile to kosztuje?”, „Jak szybko działacie?”, „Czy to bezpieczne?”
+
+6. 🧠 Sekcja „O Nas”:
+   - Anonimowy team z doświadczeniem.
+   - Motyw: cyber-maski / glitch / kod
+   - Różowe tło z animacją pulsującą
+
+7. 📞 Sekcja „Kontakt”:
+   - Link do Telegrama z ikoną i animacją.
+   - Formularz kontaktowy (opcjonalnie).
+   - „Dostępność 24/7” + różowy zegarek
+
+8. 🌐 Favicon: dodaj różowe logo Hustler Team z koroną lub dolarem jako .ico
+
+9. 🪄 Animacje i efekty:
+   - Hover: podświetlenia, neon flicker
+   - Scroll reveal: każda sekcja delikatnie wchodzi z dołu lub boku
+   - Cyber tło (np. kropki, glitchy, pikselowe efekty)
+
+10. 📱 Responsywność:
+   - Całość dostosowana do telefonu, z mobilnym menu (hamburger z animacją)
+
+Nie zmieniaj dotychczasowego stylu – wszystko ma pozostać w ostrym, neonowym, nowoczesnym RÓŻOWYM stylu z mrocznym tłem i cyber vibe.
