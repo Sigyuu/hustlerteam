@@ -4,7 +4,7 @@
   "type": "module",
   "license": "MIT",
   "scripts": {
-  "build": "esbuild server/index.ts --platform=node --packages=external --bundle --format=esm --outdir=dist"
+  "build": "esbuild index.ts --bundle --platform=node --outdir=dist"
 }
     "start": "NODE_ENV=production node dist/index.js",
     "check": "tsc",
